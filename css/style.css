@@ -93,6 +93,7 @@ main {
     width: 15rem;
     height: 18rem;
     cursor: pointer;
+    border-radius: 4rem;
 }
 .container-right img:hover{
     box-shadow: 0 0.2rem 0.8rem white;
